@@ -105,49 +105,58 @@ class Joshua_Maeba:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 AI Process Automation Agent</h3>
-      <p>Multi-agent pipeline using <strong>LangGraph</strong> for enterprise workflow automation. Integrates tool-calling, RAG, and human-in-the-loop decision gates.</p>
+      <h3>🤖 Intelligent Email Processing Agent</h3>
+      <p>Production AI agent that autonomously classifies, routes, and responds to high-volume enterprise email workflows. Integrates tool-calling, memory, and escalation logic via <strong>LangGraph</strong>.</p>
       <p>
         <img src="https://img.shields.io/badge/LangGraph-1C3D5A?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C1C?style=flat-square&logoColor=white" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ms_Graph_API-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚙️ Cloud-Native CI/CD Toolkit</h3>
-      <p>End-to-end <strong>GitOps</strong> pipeline with auto-scaling, canary deployments, and full observability baked in from day one.</p>
+      <h3>🧾 eTIMS Invoice Processing Agent</h3>
+      <p>AI agent for automated KRA eTIMS invoice extraction, validation, and submission. Handles structured & unstructured documents with high accuracy using LLM-powered parsing pipelines.</p>
       <p>
-        <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
-        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C1C?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 LLM Inference Platform</h3>
-      <p>Dockerized multi-model serving layer with load balancing, response caching, and usage metering for production AI applications.</p>
+      <h3>⚡ Express-Genix</h3>
+      <p>Production-grade CLI tool that scaffolds complete Express.js APIs in seconds — with JWT auth, Swagger docs, DB integration (MongoDB/PostgreSQL), Docker, and Jest testing out of the box.</p>
       <p>
-        <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS_ECS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-        <img src="https://img.shields.io/badge/Terraform-7B42F4?style=flat-square&logo=terraform&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
       </p>
+      <a href="https://www.npmjs.com/package/express-genix"><img src="https://img.shields.io/badge/View_on_NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🏗️ IaC Module Library</h3>
-      <p>Battle-tested <strong>Terraform</strong> modules for AWS & Azure — VPCs, EKS, RDS, IAM and more. Reusable, versioned, and production-ready.</p>
+      <h3>🏛️ Government Digital Repositories</h3>
+      <p>Delivered intelligent document management systems for <strong>ICTA Authority</strong> and the <strong>National Land Commission of Kenya</strong> — centralised, searchable, and workflow-automated.</p>
       <p>
-        <img src="https://img.shields.io/badge/Terraform-7B42F4?style=flat-square&logo=terraform&logoColor=white" />
-        <img src="https://img.shields.io/badge/Terragrunt-1A1A1A?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-        <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
       </p>
+      <a href="https://edrms.icta.go.ke"><img src="https://img.shields.io/badge/ICTA_EDRMS-007ACC?style=flat-square&logoColor=white" /></a>
+      <a href="https://repository.landcommission.go.ke:4000"><img src="https://img.shields.io/badge/NLC_Repository-2E7D32?style=flat-square&logoColor=white" /></a>
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <a href="https://jmaeba-portfolio-modern.vercel.app">
+    <img src="https://img.shields.io/badge/View_Full_Portfolio_→-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</div>
 
 ---
 
