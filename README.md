@@ -1,93 +1,168 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Hi+there!+👋;LambdaAI001;DevOps+Engineer+%40+CIC+Insurance;AI%2FML+Enthusiast+%7C+Nairobi+%F0%9F%87%A8%F0%9F%87%AA;Building+scalable+systems;Open+to+collabs!+%F0%9F%A4%96" alt="Typing SVG" />
+
+```
+██╗      █████╗ ███╗   ███╗██████╗ ██████╗  █████╗
+██║     ██╔══██╗████╗ ████║██╔══██╗██╔══██╗██╔══██╗
+██║     ███████║██╔████╔██║██████╔╝██║  ██║███████║
+██║     ██╔══██║██║╚██╔╝██║██╔══██╗██║  ██║██╔══██║
+███████╗██║  ██║██║ ╚═╝ ██║██████╔╝██████╔╝██║  ██║
+╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═════╝ ╚═════╝ ╚═╝  ╚═╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;DevOps+%26+Cloud+Architect;AI+Automation+%7C+LangChain+%7C+LangGraph;Building+Intelligent+Systems+from+Nairobi+🇰🇪;Architecting+the+Future%2C+One+Agent+at+a+Time" alt="Typing SVG" />
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0A0A0A?style=for-the-badge&logoColor=white)](https://jmaeba-portfolio-modern.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshua-maeba)
+[![TikTok](https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@joshua_nyamasege)
+[![Email](https://img.shields.io/badge/joshuamaeba@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshuamaeba@gmail.com)
+
 </div>
 
-<div align="center">
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=LambdaAI001&style=flat-square&color=blue)
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=LambdaAI001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0D1117" />
 
-</div>
+### `> whoami`
+
+```python
+class Joshua_Maeba:
+    name     = "Joshua Maeba Nyamasege"
+    location = "Nairobi, Kenya 🇰🇪"
+    title    = [
+        "Senior Software Engineer",
+        "DevOps & Cloud Architect",
+        "AI Automation Engineer",
+    ]
+    currently_building = [
+        "Production-grade AI agents",
+        "Scalable cloud-native systems",
+        "Intelligent process automation pipelines",
+    ]
+    contact = "joshuamaeba@gmail.com"
+```
+
+<br clear="right"/>
+
+---
+
+## 🤖 AI Engineering & Automation
+
+> *Designing intelligent systems that think, act, and adapt — end to end.*
+
+| Domain | Stack |
+|---|---|
+| **Agent Frameworks** | LangChain · LangGraph · AutoGen · CrewAI |
+| **LLM Integration** | OpenAI · Anthropic · HuggingFace · Ollama |
+| **Agentic Patterns** | RAG · ReAct · Tool-calling · Multi-agent Orchestration |
+| **Vector & Memory** | ChromaDB · Pinecone · FAISS · Redis |
+| **Serving & APIs** | FastAPI · LangServe · Streamlit · Gradio |
+| **Workflows** | n8n · Airflow · Celery · Event-driven pipelines |
+
+---
+
+## ⚙️ DevOps & Cloud Infrastructure
+
+> *From code commit to production — reliable, observable, scalable.*
 
 <p align="center">
-  <a href="https://jmaeba-portfolio-modern.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/joshua-maeba">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.tiktok.com/@joshua_nyamasege">
-    <img src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-  </a>
-  <a href="mailto:joshuamaeba@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42F4?style=flat-square&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 💻 Software Engineering
 
-```javascript
-const devopsEngineer = {
-  name: "Joshua Maeba Nyamasege",
-  role: "DevOps Engineer @ CIC Insurance Group",
-  location: "Nairobi, Kenya 🇰🇪",
-  interests: ["CI/CD Pipelines", "Kubernetes", "Terraform", "Docker", "AI/ML Deployment", "Cloud (AWS/Azure)"],
-  currentlyBuilding: ["Scalable enterprise systems", "AI agents for automation"],
-  funFact: "Turning coffee into code ☕⚙️ | TikTok tech creator 📱"
-};
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  🤖  AI Process Automation Agent                                    │
+│  Multi-agent pipeline using LangGraph for enterprise workflow       │
+│  automation. Integrates tool-calling, RAG, and human-in-the-loop.  │
+│  Stack: LangGraph · FastAPI · ChromaDB · Docker                    │
+└─────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────┐
+│  ⚙️  Cloud-Native CI/CD Toolkit                                     │
+│  End-to-end GitOps pipeline with auto-scaling, canary deploys,     │
+│  and observability baked in from day one.                           │
+│  Stack: Jenkins · ArgoCD · Kubernetes · Prometheus · Grafana        │
+└─────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────┐
+│  🧠  LLM Inference Platform                                         │
+│  Dockerized multi-model serving layer with load balancing,         │
+│  caching, and usage metering for production AI applications.        │
+│  Stack: FastAPI · Ollama · Redis · AWS ECS · Terraform             │
+└─────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────┐
+│  🏗️  IaC Module Library                                             │
+│  Battle-tested Terraform modules for AWS/Azure: VPCs, EKS,        │
+│  RDS, IAM, and more — reusable, versioned, production-ready.       │
+│  Stack: Terraform · Terragrunt · GitHub Actions · AWS/Azure        │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
+## 📊 Stats
+
 <div align="center">
 
-### 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=LambdaAI001&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LambdaAI001&layout=compact&theme=radical&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LambdaAI001&theme=radical&hide_border=true)
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LambdaAI001&layout=compact&theme=tokyonight&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=0D1117" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=LambdaAI001&theme=tokyonight&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&background=0D1117" />
 
 </div>
 
----
+<div align="center">
 
-### 🛠️ Tech Stack
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LambdaAI001&theme=tokyo-night&hide_border=true&color=00D9FF&line=00D9FF&point=ffffff&area=true&area_color=00D9FF)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Terraform-7B42F4?style=flat&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Jenkins-DC3545?style=flat&logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" alt="Prometheus" />
-</p>
-
----
-
-### 🔥 Featured Projects
-
-- **[CI/CD Pipeline Toolkit]** Automates deployments for enterprise apps using Jenkins & Kubernetes. *[Link once created]*
-- **[ML Model Deployment]** Dockerized ML inference with FastAPI & AWS. *[Link once created]*
-- **[IaC Templates]** Terraform modules for scalable infrastructure. *[Link once created]*
-
-*(Pin these repos on your profile for max impact!)*
-
----
-
-### 📈 Contribution Graph
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=LambdaAI001&theme=react-dark&hide_border=true)
+</div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LambdaAI001&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LambdaAI001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LambdaAI001&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
-  <br/>
-  <em>Let's connect and build something awesome together! 🚀</em>
+
+*"The best automation is the one that makes you forget it was ever manual."*
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=LambdaAI001&style=flat-square&color=00D9FF&label=Profile+Views)
+
+**Open to collaborations, consulting & high-impact engineering roles. Let's build.**
+
 </div>
