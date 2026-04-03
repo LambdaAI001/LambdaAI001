@@ -102,35 +102,52 @@ class Joshua_Maeba:
 
 ## 🔥 Featured Projects
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  🤖  AI Process Automation Agent                                    │
-│  Multi-agent pipeline using LangGraph for enterprise workflow       │
-│  automation. Integrates tool-calling, RAG, and human-in-the-loop.  │
-│  Stack: LangGraph · FastAPI · ChromaDB · Docker                    │
-└─────────────────────────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────────────────────────┐
-│  ⚙️  Cloud-Native CI/CD Toolkit                                     │
-│  End-to-end GitOps pipeline with auto-scaling, canary deploys,     │
-│  and observability baked in from day one.                           │
-│  Stack: Jenkins · ArgoCD · Kubernetes · Prometheus · Grafana        │
-└─────────────────────────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────────────────────────┐
-│  🧠  LLM Inference Platform                                         │
-│  Dockerized multi-model serving layer with load balancing,         │
-│  caching, and usage metering for production AI applications.        │
-│  Stack: FastAPI · Ollama · Redis · AWS ECS · Terraform             │
-└─────────────────────────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────────────────────────┐
-│  🏗️  IaC Module Library                                             │
-│  Battle-tested Terraform modules for AWS/Azure: VPCs, EKS,        │
-│  RDS, IAM, and more — reusable, versioned, production-ready.       │
-│  Stack: Terraform · Terragrunt · GitHub Actions · AWS/Azure        │
-└─────────────────────────────────────────────────────────────────────┘
-```
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 AI Process Automation Agent</h3>
+      <p>Multi-agent pipeline using <strong>LangGraph</strong> for enterprise workflow automation. Integrates tool-calling, RAG, and human-in-the-loop decision gates.</p>
+      <p>
+        <img src="https://img.shields.io/badge/LangGraph-1C3D5A?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ Cloud-Native CI/CD Toolkit</h3>
+      <p>End-to-end <strong>GitOps</strong> pipeline with auto-scaling, canary deployments, and full observability baked in from day one.</p>
+      <p>
+        <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 LLM Inference Platform</h3>
+      <p>Dockerized multi-model serving layer with load balancing, response caching, and usage metering for production AI applications.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS_ECS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/Terraform-7B42F4?style=flat-square&logo=terraform&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏗️ IaC Module Library</h3>
+      <p>Battle-tested <strong>Terraform</strong> modules for AWS & Azure — VPCs, EKS, RDS, IAM and more. Reusable, versioned, and production-ready.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Terraform-7B42F4?style=flat-square&logo=terraform&logoColor=white" />
+        <img src="https://img.shields.io/badge/Terragrunt-1A1A1A?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+        <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
