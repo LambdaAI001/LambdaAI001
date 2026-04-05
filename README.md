@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Joshua+Maeba+👋;I+build+AI+agents+that+work+in+production.;LangChain+%7C+LangGraph+%7C+DevOps+%7C+Cloud;Nairobi%2C+Kenya+🇰🇪+→+Building+for+the+world." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Joshua+Maeba+%F0%9F%91%8B;I+build+AI+agents+that+work+in+production.;LangChain+%7C+LangGraph+%7C+DevOps+%7C+Cloud;Nairobi%2C+Kenya+%E2%86%92+Building+for+the+world." alt="Typing SVG" />
 
 <br/>
 
